@@ -1,0 +1,19 @@
+{
+  "name": "jdate",
+  "version": "1.0.0",
+  "description": "A forked version of original project that always calculates in IRAN standard timezoen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arcana261/jdate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcana261/jdate/issues"
+  },
+  "homepage": "https://github.com/arcana261/jdate"
+}
